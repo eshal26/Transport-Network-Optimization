@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1703751455 source:c:\users\qc\onedrive\pictures\documents\dsa programmes\dsa_semesterproject\src\graph.cpp
+	"Graph.h"
+	<unordered_map>
+	<queue>
+	<cmath>
+
+1703751456 c:\users\qc\onedrive\pictures\documents\dsa programmes\dsa_semesterproject\include\graph.h
+	<iostream>
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<queue>
+	<limits>
+	<string>
+
+1703751457 source:c:\users\qc\onedrive\pictures\documents\dsa programmes\dsa_semesterproject\main.cpp
+	<iostream>
+	<cstdlib>
+	<chrono>
+	"Graph.h"
+
